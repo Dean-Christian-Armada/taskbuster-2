@@ -1,0 +1,7 @@
+Django==1.8
+--allow-external mysql-connector-python
+mysql-connector-python==2.0.3
+defusedxml
+python3-openid
+oauthlib
+django-allauth
